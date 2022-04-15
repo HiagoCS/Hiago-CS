@@ -1,0 +1,23 @@
+#txtApresentação{
+	font-family: Quicksand, "Segoe UI", sans-serif;
+}
+#openingText{
+    font-family:'Courier New', Courier, monospace;
+    margin: 5pc;
+    font-weight: bold;
+}
+#content{
+	margin: 1pc;
+}
+#leftContent, #rightContent{
+	width: 40vw;
+	justify-content: start;
+}
+#img_link{
+	font-size: 10px;
+	font-weight: normal;
+	width: 12vw;
+}
+#imgInstitute{
+	border-radius: 5px;
+}

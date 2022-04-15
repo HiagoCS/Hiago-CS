@@ -1,0 +1,11 @@
+/*echo "<div>
+						<img id='imgInstitute' src='".$institutes['img_link']."' height='118' width='118'/>
+						<p id='img_link'>Fonte: <a href='".$institutes['institute_link']."'>".$institutes['institute_link']."</a></p>
+						<p id='endereço'>".$institutes['city'].", ".$institutes['uf'].", ".$institutes['country']."</p>
+					  </div>
+					  <div>
+					  	<h4>".$institutes['name']."</h4>
+					  	<p>".$class['name']." / ".$class['dt_inicio']."</p>
+					  	<p>Tel.: ".$institutes['tel'].", E-mail: ".$institutes['email']."</p>
+					  </div>";
+					  */
